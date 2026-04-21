@@ -1,6 +1,6 @@
 # AI ESG Report Analyser
 
-**Live demo → [esg-analyser.streamlit.app](https://esg-analyser.streamlit.app)**
+**Live demo → [esg-analyser.streamlit.app](https://ai-esg-analyser-rukeyvwclky9ttapppgenfs.streamlit.app/)**
 
 A production-grade AI tool that analyses corporate sustainability reports against four major ESG frameworks — GRI, ESRS, TCFD, and GHG Protocol — and flags greenwashing risks using Claude Sonnet AI.
 
